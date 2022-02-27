@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief compendium of the vain hopes of the Jews messias. The ignorant fables of their Rabbies, and the confuting of the Jewish religion, Written by Eleazar Bargishai a born Jew, for the upholding of Christianity.</title>
+            <author>Eliazar Bar-Isajah.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84114</idno>
+            <idno type="STC">Wing E332A</idno>
+            <idno type="STC">Thomason E674_33</idno>
+            <idno type="STC">ESTC R207207</idno>
+            <idno type="EEBO-CITATION">99866276</idno>
+            <idno type="PROQUEST">99866276</idno>
+            <idno type="VID">118543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118543)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E674[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief compendium of the vain hopes of the Jews messias. The ignorant fables of their Rabbies, and the confuting of the Jewish religion, Written by Eleazar Bargishai a born Jew, for the upholding of Christianity.</title>
+                  <author>Eliazar Bar-Isajah.</author>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept: 11th".</note>
+                  <note>Identified as Wing B764 on UMI microfilm set "Early English books, 1641-1700".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jews --  Early works to 1800.</term>
+               <term>Judaism --  Relations with Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118543:1" rendition="simple:additions"/>
+            <p>A BRIEF COMPENDIUM of the vain Hopes of the Iews Meſſias. The Ignorant Fables of their Rabbies, AND The Confuting of the Jewiſh Religion.</p>
+            <p>Written by ELEAZAR BARGISHAI a born Jew, for the upholding of Chriſtianity.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118543:2"/>
+            <pb n="1" facs="tcp:118543:2" rendition="simple:additions"/>
+            <head>TO THE Religious and right Faithfull Chriſtian Reader.</head>
+            <opener>
+               <salute>Gentle and Right Chriſtian Reader:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter that I was brought up in the Jewiſh belief till I was Twenty four years of age, and inſtructed there<g ref="char:EOLhyphen"/>in, walking after the foot<g ref="char:EOLhyphen"/>pathes of my forefathers, not having any motive or illumination to belong unto ſuch Honour as to be a Member of Chriſts body. Yet know, that through the mercy and merit of Chriſt my only Saviour and Redeemer, after theſe times I received miraculouſly, as it were in a moment, another knowledge of the holy Trinity, which God wrought in me a born unworthy ſuperſtitious Jew, through the aſſi<g ref="char:EOLhyphen"/>ſtance of his holy Spirit, and gave me a brighter light of underſtanding, and brought me <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is, out of the dark<g ref="char:EOLhyphen"/>neſs of <hi>Aegypt,</hi> opening mine eyes, curing me
+<pb n="2" facs="tcp:118543:3" rendition="simple:additions"/>of my Leproſie and blind-born heart, bringing me to the true Chriſtian Faith of the true and only Sonne of God (which the Prophets call Meſſias:) whom I (with my illuminated eyes already ſince ſhort time having received that light from the holy Scripture by the hand of Faith) do acknowledge, to be our Redeemer, the promiſed Seed of the woman, who hath bruiſed the Serpents head, through whom all Nations ſhall be ſaved whoſo rightly beleeve on him.</p>
+            <p>And many ſhall marvell to hear in what manner the Jews hoping for their Meſſias ac<g ref="char:EOLhyphen"/>cording to their Rabbies carnall expounding of the old Teſtament after their ſuperſtitious and unbeleeving hearts; inſomuch that it may ſeem more eaſie and poſſible to turn an hard iron or ſtone in an inſtant into water, as ſoon as a Jews heart unto Chriſtian Religion, for and in reſpect of ſuch their Rabbies fabu<g ref="char:EOLhyphen"/>ling.</p>
+            <p>Wherein (gentle Reader) you ſhall under<g ref="char:EOLhyphen"/>ſtand more largely and plainly the Occaſion of this my Converſion, who am a born Jew, and who drunk their ſuperſtition from out my mothers breſt, and from my Childhood untill my Manly years, have been inſtructed in their Synagogues, and ſtrengthened in their Tal<g ref="char:EOLhyphen"/>muth books, which are by them in uſe; and have been much exerciſed eſpecially in Jewiſh Queſtions out of thoſe ſaid Talmuths againſt forreign Rabbies, and what ſuch like they in
+<pb n="3" facs="tcp:118543:3" rendition="simple:additions"/>their dreams expound and learn.</p>
+            <p>Therefore I departed from ſuch fraternity, and embraced the true Spouſe of Chriſt, the right Bridegroom, with publike confeſſion of her only ſaving Faith by the grace of Jeſus Chriſt, through the holy Baptiſm regenerate, being cleanſed and purified from the debt of Inheritance and the ſins of unbelief, in the pre<g ref="char:EOLhyphen"/>cious bloud of the immaculate Lamb promiſed from the beginning.</p>
+            <p>Likewiſe to make a full and publike expreſ<g ref="char:EOLhyphen"/>ſion of my enjoying the right Chriſtian Faith, I arrived here in <hi>England,</hi> not out of any doubt that I have therein (being throughly confirm<g ref="char:EOLhyphen"/>ed in that Faith by the true knowledge and manifeſtation of the old and new Teſtament) much rejoycing to have received the Chriſtian Faith, which heretofore few or no Jews have done, whereof many Chriſtians have much debate and queſtions therefore; but my deſire is, that ſo long as Almighty God grants me life, to ſerve him as a right true Chriſtian ought to do.</p>
+            <p>Likewiſe Chriſtian Reader you ſhall under<g ref="char:EOLhyphen"/>ſtand how the Jews diſhonour the holy and pure birth of Chriſt, in a curſed Book called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is to ſay, <hi>The Story of the hanged,</hi> which they privately print that the Chriſtian Princes and Potentates ſhould take no notice thereof. But the everlaſting Sonne of God, and Prince of all Princes, ſeeing the injury and vices done unto him, puniſhed them according
+<pb n="4" facs="tcp:118543:4" rendition="simple:additions"/>to their deſerts; for they bringing ſuch curſed books in <hi>Poland</hi> to the light and to be made publike, many of that curſed and viperous Nation were killed, exiled and deſtroyed, after the ſaying of <hi>Moſes,</hi> Deut. 28.15. <hi>And it ſhall come to paſſe, if thou wilt not hearken to the voice of the Lord thy God, to obſerve to do all his Commandements and his Statutes which I com<g ref="char:EOLhyphen"/>mand thee this day, that all theſe curſes ſhall come upon thee, and overtake thee. The Lord ſhall ſmite thee with madneſs, and blindneſs, and aſto<g ref="char:EOLhyphen"/>niſhment of heart. And thou ſhalt grope at noon dayes, as the blind gropeth in darkneſs, and thou ſhalt not proſper in thy wayes: and thou ſhalt be onely oppreſſed, and ſpoiled evermore, and no man ſhall ſave thee.</hi> As more plainly in the ſame Chapter is propheſied.</p>
+            <p>Moreover I will plainly declare and make notorious unto all Chriſtians, as well to the learned as the unlearned, that they may both ſee, hear and underſtand, how theſe poor Jews do expound the holy Scripture, Prophets and Teſtaments, in their Talmuds, Fables, Dreams, Dialogues, and ſuch like foolery, even as wic<g ref="char:EOLhyphen"/>ked carnall men, or a lewd drunken woman, who ſeeketh not after that which is pure, or the truth, but do viſibly more and more bring the curſe of God upon them, as <hi>Eſay</hi> witneſſeth, in his ſixth Chapter, and through Gods Or<g ref="char:EOLhyphen"/>dinance propheſied to them ſaying, <hi>Ye hear indeed but underſtand not, and ye ſee indeed but perceive not; make the hearts of theſe people fat,
+<pb n="5" facs="tcp:118543:4"/>and make their ears heavy, and ſhut their eyes, leſt they ſee with their eyes, and hear with their ears, and underſtand with their heart, and convert and be healed.</hi>
+            </p>
+            <p>I am well aſſured that my Converſion, and declaring of their unjuſt dealings and fooleries, ſhall pleaſe them as well as a ſtaff, or the graſs doth the dogg; but they ſhall know, that I do it for no other end, but that truth may victorize againſt all ſuch blaſphemous people and Na<g ref="char:EOLhyphen"/>tions; not that I will in any wiſe compare them unto their ancient Parents and right ſeed of <hi>Abraham,</hi> for aſſuredly they were elect and the Children of God.</p>
+            <p>I hope that through this my writing, Chriſt ſhall cure them of their blindneſs, open their ears, and ſoften their hard-hearted hearts with this my writing: And I do not only ſpeak unto them, but alſo pray them, that they will do ſo much as inquire and ſeek into the holy Scri<g ref="char:EOLhyphen"/>pture which they have altogether rejected, and they will find it will appear, if they ſeek they ſhall finde, and if they knock it ſhall be opened unto them; and verily they ſhall ſee and finde, that my Inſtructions and Exhortations are moſt true; but with this condition, they muſt ſet aſide their dreamings, invented humane Talmuths, together with the method of their Rabbies expounding; then may they be brought out of the captive and dark Aegypt, into the right way and bright ſhining light of Chriſt our right and undoubted Meſſias, and
+<pb n="6" facs="tcp:118543:5"/>belong unto the truth, and be transfigured: even as I have already been enlightned through the aſſiſtance of the holy Spirit, thanks and praiſe be to God therefore: Then ſhall they all perceive and underſtand, and our joy ſhall be compleat; for the time is now at hand, but not as they hope for. And although many learned Chriſtians have written unto them of the true Meſſias, yet I am in hope that ſuch Jews and their children as have formerly known me, will more look upon this my writing, and be converted unto Chriſt, foraſmuch as they know I was not one of the leaſt of their Rab<g ref="char:EOLhyphen"/>bins amongſt them, and therefore have not through ignorance or blindneſs imbraced the true Religion and Chriſtian Faith, untill I had right and well ſearched and enquired into the holy Scripture, and ſo found my portion and the due belonging thereto.</p>
+            <p>And to yee beleeving brethren and Chri<g ref="char:EOLhyphen"/>ſtians ſhall I communicate, certifie and declare of the Jews naturall enmity againſt all Chri<g ref="char:EOLhyphen"/>ſtians, in Curſing all Kings, Princes, Poten<g ref="char:EOLhyphen"/>tates, and all Chriſtians whatſoever, as alſo their Kingdoms and Countries, and eſpecially departed and converted Jews which are rege<g ref="char:EOLhyphen"/>nerate unto the Chriſtian faith through the holy Baptiſm; and what manner they uſe in that curſed Ceremony ſhall be expreſſed in this Treatiſe, though I hold it unneceſſary to write much thereof, becauſe I ſuppoſe that more learn<g ref="char:EOLhyphen"/>ed Chriſtians have the knowledge thereof alrea<g ref="char:EOLhyphen"/>dy.</p>
+            <pb n="7" facs="tcp:118543:5"/>
+            <p>Yet I hope that all true beleeving Chriſtians will accept of this ſmall and ſhort Book, ex<g ref="char:EOLhyphen"/>preſſing and revealing the wickedneſs of the Jews, and hope you will excuſe my weakneſs and unfit underſtanding and knowledge in the Engliſh tongue, whereby I am not able to ex<g ref="char:EOLhyphen"/>preſs by word of mouth to any one what I ſhall here ſet forth, being things of great con<g ref="char:EOLhyphen"/>cernment; as of the ſtupid hearts and natures of the Jews, and of the falling of bloud from Heaven four times every year in the Jews hou<g ref="char:EOLhyphen"/>ſes, and at what time of the year it falleth ſhall be here declared; humbly deſiring all thoſe who ſhall read this my little and firſt Chriſtian work, to take it in good part as from a beginning ſcholar and young Chri<g ref="char:EOLhyphen"/>ſtian.</p>
+            <div type="part">
+               <head>The Jews hoping for their Meſsias, and the man<g ref="char:EOLhyphen"/>ner of his coming, accor<g ref="char:EOLhyphen"/>ding to the fooliſh Opinion of their Rabbies.</head>
+               <p>THe Jews have a Book called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and in the 106. <hi>page</hi> is expreſſed, that they ſhall have two Meſſiaſſes, the firſt ſhall be called <hi>Meſsias Ben Joſeph,</hi> and the other <hi>Meſsias Ben David;</hi> the firſt ſhall be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:118543:6"/>that is interpreted a Warrior or brave Captain: But they themſelves know not in what man<g ref="char:EOLhyphen"/>ner he their Meſſias ſhall come, or rule, or reign, many of the Jews writing thereof, but none agreeing one with another, ſo that their blindneſs ſtill remaineth; and from time to time they become more blind, falling from one Scripture to another, and after much running and enquiring of their Rabbies concerning the ſame, they can obtain no knowledge or underſtanding thereof in their hardned and aſtoniſhed hearts; according to the ſaying of the Prophet <hi>Zechariah</hi> Chap. 12. <hi>And they ſhall look on me whom they have pierced, and they ſhall mourn for him as one mourneth for his only ſonne, and ſhall be in bitterneſs for him as one that is in bitterneſs for his firſt-born;</hi> which ſpeech is ſpoken of Chriſt, and no other, as hereafter I ſhall cleerly ſhew and ſet forth.</p>
+               <p>But they interpret this ſaying of the Pro<g ref="char:EOLhyphen"/>phet in another manner in their fooliſh Tal<g ref="char:EOLhyphen"/>muth, in the Book <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Chap. 10. where they ſay that <hi>Meſsias Ben David</hi> the ſecond, in a battell againſt <hi>Gog</hi> and <hi>Magog</hi> ſhall be ſlain: And as it is further written in their Talmuth, when their Meſſiaſſes come together, they ſhall make warre with the Chriſtians, and the Chriſtians ſhall have a Captain called <hi>Gog<g ref="char:EOLhyphen"/>magog,</hi> with whom their Meſſias ſhall joyn in battell; and they write much of their Meſſias
+<pb n="9" facs="tcp:118543:6"/>through their own evil nature and the ſpirit of the Devil, which they call in Hebrew <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> they write and ſpeak, that God ſhall ſay unto their apparent Meſſias the ſonne of <hi>David,</hi> Ask of me and I ſhall give thee, but make no mention what God ſhall or will give unto him: They reject the holy books of Pſalms, where God ſpeaks through the mouth of the Kingly Prophet <hi>David</hi> in his ſecond Pſalm, <hi>Thou art my Sonne, this day have I begotten thee, ask of me, and I ſhall give thee the Heathen for thine Inheritance.</hi> But ſay they, when <hi>Meſsias Ben David</hi> is ſo ſlain, <hi>Meſ<g ref="char:EOLhyphen"/>ſias Ben Joſeph</hi> ſhall come before the face of God ſaying <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, Om<g ref="char:EOLhyphen"/>nipotent and Ruler of the World, I deſire nothing of thee but Everlaſting life; and the Lord God ſhall anſwer to him, I will give thee ſuch Everlaſting life.</p>
+               <p>Here may every good upright and Pious Chriſtian behold and perceive, how this blind and heart-ſtopped people reject the holy Scriptures, Prophets and Miniſters, through their Rabbies ignorant and unfit knowledge; for they have no thought in the leaſt of ſuch a Meſſias as ſhould redeem them from their ſinnes and ſpirituall captivity, but of a valiant Man, who ſhall ſo valiantly fight with the Chriſtians, ſhall ſlay them and over<g ref="char:EOLhyphen"/>come them, take their houſes, goods and Lands from them, and give them unto the
+<pb n="10" facs="tcp:118543:7"/>Jews for their Inheritance, having no other thoughts in them, but how they may rob the Chriſtians of their goods.</p>
+               <p>Further they write in the before mentioned book <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>fol.</hi> 96. That they ſhall be delivered in the Moneth of <hi>May,</hi> through their Meſſias; but <hi>Rabi Aſua</hi> ſaid and ſuppoſed that it ſhall come to paſſe in the Moneth of <hi>April;</hi> for his Argument is, That in this Moneth they have been alwayes deliver<g ref="char:EOLhyphen"/>ed.</p>
+               <p>And when he ſhall appear writes <hi>Rabbi So<g ref="char:EOLhyphen"/>lomon</hi> in his book <hi>Erat,</hi> in the 4<hi rend="sup">th</hi> Chapter, that it ſhall be upon an Aſſe, and properly upon ſuch an Aſſe as <hi>Abraham</hi> the Patriarch rid on when he was to offer his ſonne <hi>Iſaak,</hi> as it is to be ſeen <hi>Gen.</hi> 22. upon whoſe Aſſe they ſay <hi>Moſes</hi> and <hi>Cipora</hi> his wife rid on likewiſe when they arrived into <hi>Aegypt,</hi> and they think it can no otherwiſe be, but that their Meſſias muſt come upon ſuch an Aſſe.</p>
+               <p>Now my loving Jews, I ſuppoſe ſurely that it ſhall be an old ſtrong and great Dogg, whom ye miſerable filthy men muſt well bathe and anoint, that his old bones may be nimble and ſtrong, otherwiſe at the battell and fight againſt the skilfull, good and valiant Chriſtians, he muſt not conquer or be worth a pibble ſtone.</p>
+               <p>But they think, That as it ſhall come to
+<pb n="11" facs="tcp:118543:7"/>paſſe that their Meſſias ſhall appear upon ſuch an old Aſſe, it ſhall be ſolemnly repreſented after this manner: Firſt, <hi>Elias</hi> the Prophet ſhall arrive and reveal unto them ſuch a joy<g ref="char:EOLhyphen"/>full meſſage and tyding, that ſuch an omni<g ref="char:EOLhyphen"/>potent and mighty one, upon ſuch an old Aſſe is ready to appear, and in a moment, with a Trumpet like an Herald, or Marſhall, or other<g ref="char:EOLhyphen"/>wiſe with a great Horn ſhall he utter his voice, which all Jews in all the corners of the world ſhall hear, and be gathered together in one place.</p>
+               <p>Now I underſtand that their <hi>Elias</hi> ſhall be<g ref="char:EOLhyphen"/>come an Hunter, which ſhall gather through the voice of his Horn, all the Doggs (that is to ſay) the Jews of the whole world together, and they are ſtedfaſt in their opinion, that ſo ſoon as they ſhall be gathered together in that place, their Meſſias ſhall appear upon that old Aſſe, upon whom alſo all the Jews ſhall ſit, and ſo altogether be tranſported through the ſea into the promiſed Land about <hi>Jeruſalem.</hi>
+               </p>
+               <p>This the Chriſtians and all other Nations ſhall ſee, and deſiring likewiſe to ride over into that Land with them, ſhall not have ſuch favour of God that they may ſit upon the bo<g ref="char:EOLhyphen"/>dy of the Aſſe; yet this ſhall be granted, that they may ſit upon the tayl of him, which ſhall be lifted up, and ſo ſoon as the Aſſe ſhall be in the middeſt of the ſea, he ſhall let his tayl
+<pb n="12" facs="tcp:118543:8"/>ſink, that all the Chriſtians may fall down, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, in a moment, be drown<g ref="char:EOLhyphen"/>ed, but the Jews ſhall ſafely ride along through the Sea at their pleaſure into the holy Land.</p>
+               <p>Now loving Jews, this muſt be a monſtrous great Aſſe whereupon ye muſt all together ſit; but I think all the unfaithfull Jews muſt be put into a ſack in a leſſer form than the motes of the Sunne, to be carried into that Land of promiſe, otherwiſe it is impoſſible that ſuch a beaſt as the Meſſiah had ſhould carry them all through the Sea; and when they are in the middle of the Sea, down falls the ſack and all the Jews are drowned, and the true Chri<g ref="char:EOLhyphen"/>ſtians through the blood of the true Meſſias Jeſus Chriſt of <hi>Nazareth,</hi> and his ſufferings on the holy Croſſe, ſhall be ſaved.</p>
+               <p>But my dear friends, where, in what place is this Aſſe now at this preſent? I think he is with the Bull and the Cow, the Whales, the great Frogs and Birds mentioned in your Songs which ye call Acdomes, and which ye ſing with great devotion upon <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, Whitſunday in your Synagogues, which is thus in Caldean <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which interpreted is thus; when I begin to ſpeak and begin to ſay I will take con<g ref="char:EOLhyphen"/>ſent; and coming into the middeſt of the Song, you cry aloud in your Synagogues in theſe words <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which is to ſay,
+<pb n="13" facs="tcp:118543:8"/>the Whale moveth himſelf with his ſins.</p>
+               <p>Here loving Chriſtians you may ſee what is ſet in their fabling Talmuths. A Rabbie, by Name <hi>Rabbie Solomon,</hi> writeth a ſtrange ſtory from this Song, and that in this manner; That when our Lord God created the World, he created two great Whales, who were ſo extremely great that the whole world could not contain them for to multiply; there<g ref="char:EOLhyphen"/>fore God killed the female of theſe two Whales, which he ſalted for the faithfull Jews: O ye blind and hard-hearted, will ye make God a fiſh-killer, or a Maſter of ſuch bu<g ref="char:EOLhyphen"/>ſineſs!</p>
+               <p>Moreover he writes, That God created a great Bull and a great Cow, who were like<g ref="char:EOLhyphen"/>wiſe ſo great, that in multiplying the world was not able to ſupport them; which the Lord foreſeeing, killed the female thereof and ſal<g ref="char:EOLhyphen"/>ted it as he did the Whale, and all for the good Jews.</p>
+               <p>In the ſame Book the Author writes and teacheth his Nation, That when the time ap<g ref="char:EOLhyphen"/>procheth and is at hand that their Meſſias ſhall appear, then God ſhall ſhew them this ſport and pleaſure, that is, that the great Whale and the Bull ſhall engage in a great fight, the one defending himſelf with his horrible fins, and the other with his horns, but the one ſhould not hurt the other, till God comes with his ſword and kills them after the Jewiſh and Le<g ref="char:EOLhyphen"/>vitiſh
+<pb n="14" facs="tcp:118543:9"/>manner: ſo they make God a great kil<g ref="char:EOLhyphen"/>ler and fight-Maſter: O the curſed teaching and abominable fables! And to continue fur<g ref="char:EOLhyphen"/>ther in his wicked ſtory he ſaith, That after God ſhall have ſlain this horrible Whale and Bull, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, the Prieſts of the Jews are ready and at hand to cut them in peeces, whereof the Prieſts ſhall have a delicate and coſtly banquet, at which banquet they ſhall drink precious Wine, which from the beginning of all begin<g ref="char:EOLhyphen"/>nings was hid ſecretly in cellars, that no Chri<g ref="char:EOLhyphen"/>ſtians or other Nations ſhall know of; for they are become <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is to ſay, unclean, and ſo the Jews ought not to drink with them: but I beleeve they make their reckoning in the winde, and wait thereupon without any pro<g ref="char:EOLhyphen"/>fit: for they ſhall all drink of one cup, where<g ref="char:EOLhyphen"/>in there ſhall go ſo much in number as to that Hebrew word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which is 287. my mean<g ref="char:EOLhyphen"/>ing is, that this is the Cup whereof the Pro<g ref="char:EOLhyphen"/>phet <hi>Jeremy</hi> in his Prophecy maketh mention, <hi>filled with the wrath of God,</hi> ſo that they ſhall have enough to drink for ever.</p>
+               <p>But verily my loſt Brethren, Sure yee muſt have a very great fire to boyl, broyl and roſt this great Bull and this great Whale: but ſo much concerning the Jews banquet.</p>
+               <p>Now I will ſpeak a little of the great<g ref="char:EOLhyphen"/>neſſe of the Leviathan or Whale, who ſhall be ſo horrible great that the whole world ſhall ſtand upon him; but I would fain know
+<pb n="15" facs="tcp:118543:9"/>how he ſhould endure upon his body ſuch a great burden or weight; but I ſuppoſe the great Frogs, and Bird mentioned in the Talmuth in the book <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Chap. 8. ſhall help him to ſupport and ſuſtein part of the great weight, otherwiſe the Whale happly alone might periſh under ſo great a burden.</p>
+               <p>It is wonder that ſuch unbeleeving people ſhould publikely write and teach ſuch groſſe lyes. <hi>Omer Rabi Bar Chanina,</hi> ſaith alſo in the Talmouth; I have ſeen, and behold on the one ſide a Frog in greatneſs like a Village or Town of 60 Houſes, another Frog much greater then the former, which cometh and beguileth and devoureth the firſt; and afterwards a bird or great fowl whom they call Guina, likewiſe came and beguiled the ſecond Frog, and af<g ref="char:EOLhyphen"/>ter flew upon a Tree and there reſted; where<g ref="char:EOLhyphen"/>upon the Author ſaid, ſee and behold how great a Tree muſt that have been where ſuch a great fowl can ſit upon: now ſaid <hi>Rabbi Papa,</hi> had I not been there and ſeen the Bird at that time, I ſhould not have beleeved it.</p>
+               <p>
+                  <hi>Rabbi Saffera</hi> tells another Fable ſaying, As I once ſayled in a Ship, behold I ſaw a Fiſh who lifted his head out of the water, and I eſpied upon him two Horns, whereupon was written, I am the leaſt Creature that is created by God in the Sea, and am indeed three miles long, and muſt enter into the mouth of the Leviathan that is the Whale
+<pb n="16" facs="tcp:118543:10"/>and be devoured of him. Now hark ye my loſt brethren, ye ſpeak much of your Levia<g ref="char:EOLhyphen"/>than, that but one ſhall be in the Sea: Surely, this Whale, your hoped for Leviathan, <hi>Anno Domini</hi> 1642. was brought into <hi>Riga,</hi> upon the Frontiers of <hi>Lifland</hi> under the juriſdiction of the Queen of <hi>Swede,</hi> at which time I was with my brother there, who is a Merchant, and there was taken at <hi>Riga</hi> a great Whale, and at a Merchants there, by name <hi>John Kortrimans,</hi> did eat of the Whale, whereof there were many hundred tuns ſalted, and I ſuppoſe truly it will prove that it was your Leviathan. Now my loving Jews, for as much as I now have been baptized, ſo I know that ye would have given me no part of your Leviathan; but however I have been before ye, for ye wait all too long up<g ref="char:EOLhyphen"/>on it, and I had very good reaſon to be before ye, for in your <hi>Talmuth</hi> ſtandeth written, that no other ſhall have part thereof ſave onely the Prieſts, very well if it be ſo I am like of Nati<g ref="char:EOLhyphen"/>vity from (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is from the Genealogy of <hi>Aaron</hi> the Prieſt, the brother of <hi>Moſes,</hi> and I have not once, but too often ce<g ref="char:EOLhyphen"/>lebrated the wicked Ceremony with your Prieſts in (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, the ſervice and the ſons in the Synagogue, who all pro<g ref="char:EOLhyphen"/>feſſe themſelves to be of <hi>Levi.</hi>
+               </p>
+               <p>But I will return again to my Story and Song called <hi>Achdonis,</hi> wherein is mentioned thus, that the ſaid banquet being dreſſed and
+<pb n="17" facs="tcp:118543:10"/>made ready, it ſhall be preſented upon a Table of Carbuncle in Paradiſe, all this being done, the Jews ſhall waſh their feet in the water of <hi>Edom.</hi>
+               </p>
+               <p>Very well my joyful Jews, in truth it ſhall be bright and light enough at the Carbuncle Table at your Banquet, but rather from the light of that fire within that Paradiſe, where the Devils dwell, and where ye ſhall miſſe of ſuch pleaſure, and water to waſh your feet; and they believe that after waſhing of their feet they ſhall begin a fair excellent dance, and God Al<g ref="char:EOLhyphen"/>mighty ſhall be the firſt beginner and maſter be<g ref="char:EOLhyphen"/>fore them.</p>
+               <p>Yea my dancing Jews with thunder and lightning shall he dance before ye; Likewiſe <hi>Rabbi Eleaſer</hi> in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>fol.</hi> 31. in the end of the <hi>Talmuth</hi> which he cals <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſaith, that when their apparent <hi>Meſsias</hi> shall ar<g ref="char:EOLhyphen"/>rive, how the Almighty shall make a dance to all righteous Jews (for onely the Jews, and none other they call righteous) and that ſo ſoon as the Jews appear together in Paradiſe, and how that one after another shall point their fingers towards God with great joy. In the ſame <hi>Tal<g ref="char:EOLhyphen"/>much</hi> and book <hi>Meg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lla</hi> fol. 33. ſaith <hi>Chennina,</hi> when the <hi>Meſsias</hi> shall appear, then shall God the Almighty shew great honours to the Jews, but I think it will be in fire, thunder and light<g ref="char:EOLhyphen"/>ning, and that will be all the honour God will shew upon the curſed Jews.</p>
+               <pb n="18" facs="tcp:118543:11"/>
+               <p>
+                  <hi>Menorat Hamor</hi> folio 70. writes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, thus to under<g ref="char:EOLhyphen"/>ſtand, and to the King our <hi>Meſsias</hi> shall God the Almighty make ten dances; but my dan<g ref="char:EOLhyphen"/>cing Jews, there will be good profit for the Muſi<g ref="char:EOLhyphen"/>cian when ſuch folk dance.</p>
+               <p>Alſo he ſaith in the ſame Book <hi>fol.</hi> 84, 85. That after the Reſurrection men ſhall eat, drink, marry, and bring forth children; The like ſtandeth written in the <hi>Talmuth</hi> in the Book <hi>Boma Metelehem, fol.</hi> 31. which was preached by <hi>Rabbi Simon</hi> the ſonne of <hi>Gameliel,</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) in the laſt times when <hi>Meſsias</hi> ſhall appear, eve<g ref="char:EOLhyphen"/>ry wife shall bring forth a childe every day, which is likewiſe unnatural, and hath no foun<g ref="char:EOLhyphen"/>dation either in Divine or Humane Wri<g ref="char:EOLhyphen"/>tings.</p>
+               <p>If any man ask the Jews, where their <hi>Meſ<g ref="char:EOLhyphen"/>ſias</hi> is all this while: Their Anſwer is, He lies chained in Paradiſe all the whole week long with a great iron Chain that he cannot come away, and upon their Sabbath he is bound with a Hair of a Womans head, which he will not break, for that he will not dishonour the Sabbath. Now my devout Jews, I believe by this circumſtance, that the Devil shall be your <hi>Meſsias</hi> who lieth chained in hell, which ye call <hi>Gehennam,</hi> and cannot come from thence untill the time promiſed, and too ſoon I fear for your ſorrow.</p>
+               <p>Others of them do imagine, that when
+<pb n="19" facs="tcp:118543:11"/>their <hi>Meſsias</hi> comes, he shall take them by force from the Chriſtians, and all other Nations, and bring them out of their Captivity; for ex<g ref="char:EOLhyphen"/>ample, they alledge that <hi>Moſes</hi> not inſtantly ſo ſoon as he was born releaſed his brethren out of the Captivity of <hi>Aegypt,</hi> but he tarried and waited upon the orders of God, and ſo brought <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, that hard folk out with a ſtrong hand, and ſo they believe their <hi>Meſsias</hi> will do the like.</p>
+               <p>Now my loving Chriſtian brethren, I can<g ref="char:EOLhyphen"/>not mention the hundred part of the fabling opinions and hopes they have of their <hi>Meſsias,</hi> becauſe I have not their Talmuth Book here, and other fables of their Rabbies expounding, but relate only what I can bring to memory, ha<g ref="char:EOLhyphen"/>ving been formerly a <hi>Rabbi</hi> amongſt them, for they never hoped for the right <hi>Meſſias,</hi> as our Saviour Jeſus Chriſt, but much more wait up<g ref="char:EOLhyphen"/>on their Antichriſt, of which the Prophet <hi>Da<g ref="char:EOLhyphen"/>niel</hi> ſpeaketh much; and as the Apoſtle <hi>Paul,</hi> 2 <hi>Theſſ.</hi> 2. foresheweth, and ſpeaketh thereof in the whole Chapter. And our Saviour him<g ref="char:EOLhyphen"/>ſelf ſaith, <hi>That I am come in the name of my Father, and ye will not know me, but another ſhall come in his own Name, and him ſhall ye re<g ref="char:EOLhyphen"/>ceive for a Meſſias.</hi> But <hi>John</hi> the Divine giveth this godly ſentence thereupon, ſaying, That when this falſe <hi>Meſſias</hi> shall come, Chriſt through his Spirit shall mark him for deſtructi<g ref="char:EOLhyphen"/>on, together with all them that believe on him,
+<pb n="20" facs="tcp:118543:12"/>which are the Jews, and caſt them into a bot<g ref="char:EOLhyphen"/>tomleſs pit of torment, which burneth with pitch and brimſtone for ever, which is the <hi>Ge<g ref="char:EOLhyphen"/>henna,</hi> the earthly pit of <hi>Corah, Dathan</hi> and <hi>Abi<g ref="char:EOLhyphen"/>ram,</hi> as you shall finde it written in the fifth Book of <hi>Moſes</hi> in the ſixteenth Chapter of <hi>Num<g ref="char:EOLhyphen"/>bers</hi> verſ. 31. From which pit the Lord of his in<g ref="char:EOLhyphen"/>finite mercy deliver us, and all good Chriſti<g ref="char:EOLhyphen"/>ans through the precious bloud of our Saviour and true <hi>Meſſias,</hi> Jeſus Chriſt, <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <pb n="21" facs="tcp:118543:12"/>
+            <p>THis is the firſt part of this my little Treatiſe of the Jews ſuperſtitious and carnal hoping for their <hi>Meſſias,</hi> as they are taught from their bab<g ref="char:EOLhyphen"/>ling <hi>Talmuth</hi> and fooliſh blinde Rabbies and Teachers.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
